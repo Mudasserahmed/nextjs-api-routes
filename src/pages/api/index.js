@@ -1,0 +1,1 @@
+export { default as example } from '../../pages/api/example';
